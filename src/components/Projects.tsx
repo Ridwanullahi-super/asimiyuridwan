@@ -36,12 +36,12 @@ const projects = [
     githubLink: 'https://github.com/asimiyuridwan/',
   },
   {
-    title: 'Real Estate Platform',
-    description: 'Full-stack real estate platform with property listings, user authentication, and admin dashboard.',
-    image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2073&q=80',
-    tags: ['React', 'Node.js', 'MongoDB', 'Express'],
-    liveLink: 'https://realestate.example.com',
-    githubLink: 'https://github.com/asimiyuridwan/real-estate',
+    title: 'Electronic Learning, Mentorship, Training & Event Management System',
+    description: 'A full-stack electronic learning platform with specialized training from field experts and integrated event (conference) management system',
+    image: 'https://res.cloudinary.com/do1ato3qq/image/upload/v1752560631/WhatsApp_Image_2025-07-14_at_12.20.48_f7d70f43_yqegqi.jpg',
+    tags: ['TypeScript', "Nextjs", 'React', 'Node.js', 'ProgreSQL', 'SQL'],
+    liveLink: 'https://emconsulttech.com',
+    githubLink: 'https://github.com/Ridwanullahi-super/emconsulttech.com.git',
   },
   {
     title: 'Restaurant Ordering System',
